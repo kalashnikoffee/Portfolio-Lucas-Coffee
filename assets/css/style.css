@@ -40,15 +40,17 @@ body {
 	}
 
 	.page-heading {
-		color: #4aaaa5
+		color: #4aaaa5;
+		font-family: 'Georgia', Times, 'Times New Roman', serif;
 	}
-	
+
 	.my-name {
 		left: 250px;
 		background-color: #4aaaa5;
 		text-decoration: none;
 		color: white;
 		padding: 20px;
+		font-size: 24px;
 
 	}
 	.nav-bar {
