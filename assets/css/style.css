@@ -1,4 +1,10 @@
 /*naviation bar should be horizontal and float to the right of h1*/
+body {
+	font-size: 18px;
+	line-height: 34px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #777777;
+}
 #navigation-bar {
 	width: 100%;
 	float: right;
@@ -20,12 +26,15 @@
 		color: white;
 		text-align: center;
 		vertical-align: bottom;
+		border-top: 8px solid #4aaaa5;
 		}
 	.container {
 		border-bottom:solid;
 		border-bottom-color: gray;
-		padding: 20px;
-		margin-left: 20px;
+		width: 100%;
+		max-width: 960px;
+		margin: 0 auto;
+		clear: both;
 		
 	}
 	.my-name {
