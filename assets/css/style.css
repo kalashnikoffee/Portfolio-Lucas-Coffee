@@ -35,8 +35,14 @@ body {
 		clear: both;
 		z-index: 100;
 		background: #ffffff;
+		padding: 15px 20px 15px 20px;
 		
 	}
+
+	.page-heading {
+		color: #4aaaa5
+	}
+	
 	.my-name {
 		left: 250px;
 		background-color: #4aaaa5;
