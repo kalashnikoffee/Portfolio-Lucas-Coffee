@@ -13,9 +13,6 @@ body {
 	list-style: none; 
 }
 	
-#navigation-bar li {
-	float: right; 
-	}
 
 	.footer {
 		position: fixed;
@@ -45,7 +42,19 @@ body {
 		padding: 20px;
 
 	}
-	.nav-bar{
+	.nav-bar {
 		float: right;
 		text-decoration: none;
 	}
+
+	.head {
+		margin: 0 0 50px; /*tweek 3rd?*/
+		background: #ffffff;
+		width: 100%;
+		border-bottom: #cccccc solid;
+		font-family:'Georgia', Times, 'Times New Roman', serif;
+		font-weight: bold;
+
+
+	}
+	
